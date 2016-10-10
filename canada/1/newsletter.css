@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    line-height: 1.5;
+    color: darkslategrey;
+    text-shadow: 1px 1px #f1f2f2;
+}
+
+@media print { 
+    * {
+        zoom: 100%;
+    }
+    img {
+        zoom: 75%;
+    }
+}
+
+.title-image {
+    max-width: 100%;
+    height: auto; 
+    margin-bottom: 0.3em;
+    /* border-radius: 0.3em; */
+}
+
+p {
+    margin-bottom: 16px;
+    margin-top: 0;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+ul {
+    list-style: square;
+}
+
+#content {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+h1 {
+    border-bottom: 1px solid #eee;
+    font-size: 2em;
+    padding-bottom: 0.3em;
+    font-weight: 700;
+    line-height: 1.25;
+    margin: 0.67em 0;
+}
+
+.title-date {
+    float: right;
+    font-size: 0.6em;
+    vertical-align: middle;
+    line-height: 2;
+    margin-left: 1em;
+    margin-top: 0.3em;
+}
+
+@media only screen and (max-width: 500px) {
+    .title-date {
+        float: none;
+        display: block;
+        margin-left: 0;
+        margin-top: 0;
+    }
+}
+
+h2 {
+    border-bottom: 1px solid #eee;
+    font-size: 1.5em;
+    padding-bottom: 0.3em;
+    font-weight: 600;
+    line-height: 1.25;
+    margin: 0.67em 0;
+}
+
+.image-left {
+    margin-right: 1.5em;
+    margin-left: 0;
+    margin-top: 0.3em;
+    margin-bottom: 1em;
+    float: left;
+    -webkit-box-shadow: 3px 3px 3px #aaa;
+    -moz-box-shadow: 3px 3px 3px #aaa;
+    box-shadow: 3px 3px 3px #aaa;
+    -webkit-print-color-adjust:exact;
+    -webkit-filter:opacity(1);
+}
+
+.image-right {
+    margin-left: 1.5em;
+    margin-right: 0;
+    margin-top: 0.3em;
+    margin-bottom: 1em;
+    float: right;
+    -webkit-box-shadow: 3px 3px 3px #aaa;
+    -moz-box-shadow: 3px 3px 3px #aaa;
+    box-shadow: -3px 3px 3px #aaa;
+    -webkit-print-color-adjust:exact;
+    -webkit-filter:opacity(1);
+}
+
+/* set overflow: auto or hidden in order to force wrap image floating only with
+   its text inside the div, not with the rest of the page */
+div {
+    overflow: hidden;
+}
+
+#footer {
+    margin-top: 1em;
+    font-size: 0.8em;
+    font-style: italic;
+    text-align: right;
+    margin-bottom: 2em;
+}
