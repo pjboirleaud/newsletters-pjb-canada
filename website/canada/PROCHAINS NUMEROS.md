@@ -1,4 +1,8 @@
-# Organisation des rues
+# Numéro 3 : Automne
+
+# Prochains numéros
+
+## Organisation des rues
 
 Comme partout en amérique du nord, les rues des villes sont quadrillées.
 
@@ -18,7 +22,7 @@ Il peut y avoir des exceptions qui confirment la règle : étant donné la struc
 
 Source: http://grandquebec.com/conseils-pratiques-quebec/numerotation-rue/
 
-# Code postaux
+## Code postaux
 
 Le code postal est formé de 6 caractères, et est extrèmement précis, à un paté de maison près. 
 
@@ -27,7 +31,17 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
 # Prochains "Le saviez-vous ?"
 
                 <li>Sur les boites aux lettres, on y voit souvent écrit "pas de circulaires"</li>
-                <li>Le matin on déjeune, le midi on dîne (oui, oui !), et le soir on soupe !</li>
+                <li>Le matin on déjeune, le midi on dîne, et le soir on soupe !</li>
                 <li>Au Québec, vous ne parlerez probablement pas des "gosses" en parlant des enfants. La signification est tout autre !</li>
                 <li>On ne dit pas faire du shopping, mais magasiner</li>
                 <li>On ne va pas chez l'épicier, mais chez le dépanneur. C'est également là qu'on y achète les cigarettes.</li>
+
+
+
+
+
+
+
+
+
+"C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" file:///D:/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/1/index.html test.pdf
