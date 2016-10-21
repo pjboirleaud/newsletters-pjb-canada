@@ -7,6 +7,8 @@
     text-shadow: 1px 1px #f1f2f2;
 }
 
+
+/* Convient pour impression microsoft pdf depuis le navigateur Edge, en mettant marges étroites */
 @media print { 
     * {
         zoom: 100%;
@@ -16,11 +18,30 @@
     }
 }
 
+
+/* convient pour l'outil wkhtmltopdf.exe *//*
+@media print {
+    * {
+        zoom: 100%;
+    }
+    img {
+        zoom: 75%;
+    }
+}*/
+
 .title-image {
     max-width: 100%;
     height: auto; 
     margin-bottom: 0.3em;
     /* border-radius: 0.3em; */
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 p {
