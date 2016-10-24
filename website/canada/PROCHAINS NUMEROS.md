@@ -1,6 +1,14 @@
 
 # Prochains numéros
 
+travail
+
+paradis de la bière
+
+RESO
+
+
+
 ## Organisation des rues
 
 Comme partout en amérique du nord, les rues des villes sont quadrillées.
@@ -29,8 +37,16 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
 
 # Prochains "Le saviez-vous ?"
 
-
-
+niaiseries
+, ... la
+pieces et sous
+clavarder
+texter
+c pas si pire
+excellent
+danseuses
+rejoindre (tel)
+chez vous, nous
 
 
 "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" file:///D:/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/1/index.html test.pdf
