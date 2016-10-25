@@ -47,6 +47,13 @@ excellent
 danseuses
 rejoindre (tel)
 chez vous, nous
+tu veux tu
+c pas si pire
+clavardage, text
+selon moi ?
+témoin HTTP = HTTP cookie
+fureteur (browser)
+bon matin
 
 
 "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" file:///D:/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/1/index.html test.pdf
