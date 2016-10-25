@@ -7,8 +7,6 @@ paradis de la bière
 
 RESO
 
-
-
 ## Organisation des rues
 
 Comme partout en amérique du nord, les rues des villes sont quadrillées.
@@ -54,6 +52,11 @@ selon moi ?
 témoin HTTP = HTTP cookie
 fureteur (browser)
 bon matin
+ça fait plaisir
+semaine commence le dimanche
+bottin
+Attention plancher mouillé
+Ligne d'affaires
 
 
 "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" file:///D:/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/1/index.html test.pdf
