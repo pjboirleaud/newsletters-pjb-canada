@@ -1,0 +1,34 @@
+<html>
+    <title>Newsletter PJ Boirleaud - Canada</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="robots" content="index, follow" />
+    <meta name="description" content="Newletter de Pierre-Jean Boirleaud (PJ, PJB) au Qu&eacute;bec, Canada" />
+    <meta name="keywords" content="newletter,pj,pjb,quebec,qu&eacute;bec,canada,montreal,montr&eacute;al" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/newsletter.css"/>  
+    <link rel="alternate" type="application/rss+xml" href="rss.xml" title="Newsletter PJ Boirleaud - Canada">
+    <script type="text/javascript">
+    </script>
+    <body>
+        <div id="content" class="main">
+            <h1>Newsletters PJ au Canada</h1>
+            <p>
+                <div style="text-align:center;width:400px;padding:1em 0; margin-left:auto;margin-right:auto;"> <h2><a style="text-decoration:none;" href="http://www.zeitverschiebung.net/fr/city/6077243"><span style="color:gray;">Heure actuelle</span><br />Montréal, Canada</a></h2> <iframe src="http://www.zeitverschiebung.net/clock-widget-iframe-v2?language=fr&timezone=America%2FToronto" width="100%" height="150" frameborder="0" seamless></iframe> </div>   
+            </p>
+            <p>
+                <ul>
+                    <li>
+                        <a href="https://drive.google.com/open?id=0B8kBiPJMZuUjZUl3aFlIMEhqNWM">Versions pdf</a> - <a type="application/rss+xml" href="rss.xml">RSS <img src="img/feed-icon-16.gif" alt=""/></a>
+                    </li>
+                </ul>
+                <ul>
+${forEachNewsletter('start')}                    <li>
+                        <a href="${N}/">#${N} - ${DATE} - ${TITLE}</a>
+                    </li>
+${forEachNewsletter('end')}
+                </ul>
+            </p>
+        </div>
+    </body>
+</html>
