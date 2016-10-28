@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="http://pjb.getforge.io/canada/rss.xml" rel="self" type="application/rss+xml" />
+  <title>Newsletter PJ Boirleaud - Canada</title>
+  <link>http://pjb.getforge.io/canada/</link>
+  <description>Newsletters de PJ Boirleaud au Canada</description>
+  <image>
+      <url>http://pjb.getforge.io/canada/img/pj.jpeg</url>
+      <link>http://pjb.getforge.io/canada/</link>
+      <title>Newsletter PJ Boirleaud - Canada</title>
+  </image>
+  <item>
+      <guid>http://pjb.getforge.io/canada/1/</guid>
+      <title>#1 - 09 octobre 2016 - Arrivée à Montréal</title>
+      <link>http://pjb.getforge.io/canada/1/</link>
+      <description></description>
+  </item>
+  <item>
+      <guid>http://pjb.getforge.io/canada/2/</guid>
+      <title>#2 - 12 octobre 2016 - Suite des démarches</title>
+      <link>http://pjb.getforge.io/canada/1/</link>
+      <description></description>
+  </item>
+  <item>
+      <guid>http://pjb.getforge.io/canada/3/</guid>
+      <title>#3 - 18 octobre 2016 - L'automne !</title>
+      <link>http://pjb.getforge.io/canada/1/</link>
+      <description></description>
+  </item>
+</channel>
+</rss>
