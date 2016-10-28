@@ -57,6 +57,10 @@ semaine commence le dimanche
 bottin
 Attention plancher mouillé
 Ligne d'affaires
+bottin (rep tel)
+Cabaret:plateau, 
+brevage, 
+liqueur
 
 
 "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" file:///D:/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/1/index.html test.pdf
