@@ -33,13 +33,45 @@ Le code postal est formé de 6 caractères, et est extrèmement précis, à un p
 
 Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel) :  H2X 2K7
 
+# "Le siez-vous ?" - anciens numéros
+
+                <li>Au Québec, on dit parfois allô pour dire bonjour et on peut dire bonjour pour dire au-revoir !</li>
+                <li>On dit "bienvenue" pour dire "de rien"</li>
+                <li>On dit "fin de semaine" pour parler du week-end</li>
+                <li>On dit la "fête de ..." à la place de "anniversaire de ..."</li>
+                <li>Le système métrique est utilisé majoritairement, mais pour certaines choses non : par exemple, les surfaces d'appartements sont exprimées en pieds carrés.</li>
+                <li>On dit laveuse pour machine à laver, sécheuse pour singe-linge, poêle pour cuisinière, et balayeuse pour aspirateur :)</li>
+                <li>Au Québec on se tutoie, mais quand t'es français, on te voit arriver à 15 km et te vouvoie parfois du coup !</li>
+                
+                <li>Au Québec, on dit NIP au lieu de PIN pour le code de la carte</li>
+                <li>On dit de quelque chose qui coûte cher qu'il est dispendieux !</li>
+                <li>On ne dit pas entretien, mais entrevue</li>
+                <li>On appelle quelqu'un qui occupe une chambre un chambreur ! (celle-là est collector quand même)</li>
+                <li>Les panneaux "Stop" sont remplacés par des panneaux "Arrêt" (no comment)</li>
+                <li>On ne dit pas "bowling", mais "salon de quille" (celle-là est également très collector)</li>
+                <li>Les Starbucks Coffee deviennent les Café Starbuck, les KFC deviennent les PFK (Poulet Frit du Kentucky) !</li>
+                
+                <li>Au Québec, vous ne parlerez probablement pas des "gosses" en parlant des enfants. La signification est tout autre !</li>
+                <li>Sur les boites aux lettres, on y voit souvent écrit "pas de circulaires"</li>
+                <li>Le matin on déjeune, le midi on dîne, et le soir on soupe !</li>
+                <li>On ne dit pas faire du shopping, mais magasiner</li>
+                <li>On ne va pas chez l'épicier, mais chez le dépanneur. C'est également là qu'on y achète les cigarettes.</li>
+                <li>Les "bibittes" ne sont pas ce que vous imaginez, mais en fait les petites bestioles, les insectes</li>
+                <li>Les foufounes sont quant à elles les fesses</li>
+                
+                <li>On dit text pour texto / SMS, et du coup texter plutôt qu' "envoyer un SMS"</li>
+                <li>On ne chat pas sur le net, mais on clavarde !</li>
+                <li>Le navigateur web (Chrome, Firefox...) devient le fureteur</li>
+                <li>Le matin quand on se croise, on dit "bon matin" (= good morning)</li>
+                <li>La semaine calendaire commence le dimanche</li>
+                <li>Les boissons s'appelle les breuvages</li>
+                <li>Les liqueurs sont les boissons non alcoolisées (type coca) !</li>
+
 # Prochains "Le saviez-vous ?"
 
 niaiseries
 , ... la
 pieces et sous
-clavarder
-texter
 c pas si pire
 excellent
 danseuses
@@ -47,20 +79,15 @@ rejoindre (tel)
 chez vous, nous
 tu veux tu
 c pas si pire
-clavardage, text
 selon moi ?
 témoin HTTP = HTTP cookie
-fureteur (browser)
-bon matin
 ça fait plaisir
-semaine commence le dimanche
 bottin
 Attention plancher mouillé
 Ligne d'affaires
 bottin (rep tel)
 Cabaret:plateau, 
-brevage, 
-liqueur
+cédulé
 
 
 "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" file:///D:/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/1/index.html test.pdf
