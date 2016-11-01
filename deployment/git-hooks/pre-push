@@ -2,5 +2,5 @@
 
 # used to copy all pdf files into a destination folder, for example a Google Drive shared folder.
 
-# xcopy /s "D:\boirl\Documents\GitHub\newsletters-pjb-canada\website\canada\pdf" "D:\boirl\Google Drive\Canada\Newsletters"
-cp -a "/d/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/pdf/." "/d/boirl/Google Drive/Canada/Newsletters/"
+# xcopy /s "D:\boirl\GitHub\newsletters-pjb-canada\website\canada\pdf" "D:\boirl\Google Drive\Canada\Newsletters"
+cp -a "/d/boirl/GitHub/newsletters-pjb-canada/website/canada/pdf/." "/d/boirl/Google Drive/Canada/Newsletters/"
