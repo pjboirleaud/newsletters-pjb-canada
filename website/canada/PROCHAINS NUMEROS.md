@@ -68,7 +68,7 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
                 <li>Le navigateur web (Chrome, Firefox...) devient le fureteur</li>
                 <li>Le matin quand on se croise, on dit "bon matin" (= good morning)</li>
                 <li>La semaine calendaire commence le dimanche</li>
-                <li>Les boissons s'appelle les breuvages</li>
+                <li>Les boissons s'appellent les breuvages</li>
                 <li>Les liqueurs sont les boissons non alcoolisées (type coca) !</li>
                 
                 <li>Même si t'habites tout seul, on ira "chez vous", et non "chez toi"</li>
@@ -95,6 +95,8 @@ selon moi ?
 ça fait plaisir
 Ligne d'affaires
 classeur, ...
+c'est beau (= c'est bon)
+est-ce à votre convenance ?
 
 
 "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" file:///D:/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/1/index.html test.pdf
