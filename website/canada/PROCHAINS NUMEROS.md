@@ -1,11 +1,15 @@
 
 # Prochains numéros
 
-travail
+appartement
+
+"plus taxe"
+
+montréal (qualité de vie, RESO, organisation des rues, codes postaux...)
 
 paradis de la bière
 
-RESO
+que mange t-on (burger, poutines, bons restaux, courses : pharmacies, produits comme fromages charcut : cretons ...)
 
 ## Organisation des rues
 
@@ -66,6 +70,15 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
                 <li>La semaine calendaire commence le dimanche</li>
                 <li>Les boissons s'appelle les breuvages</li>
                 <li>Les liqueurs sont les boissons non alcoolisées (type coca) !</li>
+                
+                <li>Même si t'habites tout seul, on ira "chez vous", et non "chez toi"</li>
+                <li>Idem avec "chez nous" / "chez moi"</li>
+                <li>Quand le sol est glissant dans les lieux publics, magasins, on y voit <a href="http://www.sylprotec.com/12404-large_default/treteau-attention-plancher-mouille-25-po-de-haut.jpg">un panneau "(Attention) plancher mouillé"</a></li>
+                <li>Un bottin est un répertoire (téléphonique ou autre)</li>
+                <li>On ne dit pas plateau (de cantine ou fast-food), mais cabaret</li>
+                <li>Céduler veut dire mettre un rendez-vous, planifier (provient de l'anglais "schedule")</li>
+                <li>Généralement à la piscine tu apportes ton cadenas pour ton casier</li>
+                <li>Un cookie (navigateur web) devient un témoin</li>
 
 # Prochains "Le saviez-vous ?"
 
@@ -76,18 +89,12 @@ c pas si pire
 excellent
 danseuses
 rejoindre (tel)
-chez vous, nous
 tu veux tu
 c pas si pire
 selon moi ?
-témoin HTTP = HTTP cookie
 ça fait plaisir
-bottin
-Attention plancher mouillé
 Ligne d'affaires
-bottin (rep tel)
-Cabaret:plateau, 
-cédulé
+classeur, ...
 
 
 "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" file:///D:/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/1/index.html test.pdf
