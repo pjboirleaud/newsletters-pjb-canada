@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 public class Main {
 
 	public final static String PAGES_PATH = "../website/canada/";
-	public final static String PDF_PATH = "../website/canada/pdf/";
+	public final static String PDF_PATH = "D:/boirl/Google Drive/Canada/Newsletters/"; // "../website/canada/pdf/";
 	public final static List<String> EXCLUDE = Arrays.asList(new String[] { ".", "..", "pdf", "js", "css", "img" });
 	public final static String COMMAND = "C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe --print-media-type";
 	public static boolean REGERATE_ALL = false;
