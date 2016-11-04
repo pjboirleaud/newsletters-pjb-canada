@@ -7,23 +7,27 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+import org.pjb.newsletterscanada.config.Config;
+import org.pjb.newsletterscanada.config.ConfigKeys;
+
 public class Main {
 
-	public final static String PAGES_PATH = "../website/canada/";
-
-	public final static List<String> EXCLUDE = Arrays.asList(new String[] { ".", "..", "pdf", "js", "css", "img" });
-
-	public final static String FOR_EACH_NEWSLETTER_START = "${forEachNewsletter('start')}";
-	public final static String FOR_EACH_NEWSLETTER_END = "${forEachNewsletter('end')}";
-	public final static String N = "${N}";
-	public final static String DATE = "${DATE}";
-	public final static String TITLE = "${TITLE}";
+	public static String PAGES_PATH = Config.getConfig().getString(ConfigKeys.PAGES_PATH,
+			ConfigKeys.DEFAULT.PAGES_PATH);
+	public static List<String> EXCLUDE_FOLDERS = Config.getConfig().getStringList(ConfigKeys.EXCLUDE_FOLDERS,
+			ConfigKeys.DEFAULT.EXCLUDE_FOLDERS);
+	public static String FOR_EACH_NEWSLETTER_START = Config.getConfig().getString(ConfigKeys.FOR_EACH_NEWSLETTER_START,
+			ConfigKeys.DEFAULT.FOR_EACH_NEWSLETTER_START);
+	public static String FOR_EACH_NEWSLETTER_END = Config.getConfig().getString(ConfigKeys.FOR_EACH_NEWSLETTER_END,
+			ConfigKeys.DEFAULT.FOR_EACH_NEWSLETTER_END);
+	public static String N = Config.getConfig().getString(ConfigKeys.N, ConfigKeys.DEFAULT.N);
+	public static String DATE = Config.getConfig().getString(ConfigKeys.DATE, ConfigKeys.DEFAULT.DATE);
+	public static String TITLE = Config.getConfig().getString(ConfigKeys.TITLE, ConfigKeys.DEFAULT.TITLE);
 
 	private final static Map<String, String> title = new HashMap<String, String>();
 	private final static Map<String, String> date = new HashMap<String, String>();
@@ -41,7 +45,7 @@ public class Main {
 		System.out.println("Fetching data from pages...");
 		try {
 			Files.list(Paths.get(PAGES_PATH)).filter(Files::isDirectory)
-					.filter(f -> !EXCLUDE.contains(f.getFileName().toString())).forEach(Main::fetchData);
+					.filter(f -> !EXCLUDE_FOLDERS.contains(f.getFileName().toString())).forEach(Main::fetchData);
 		} catch (IOException e) {
 			throw new RuntimeException("IO Exception occured. ", e);
 		}
@@ -74,28 +78,29 @@ public class Main {
 
 		try {
 			String templateContent = new String(Files.readAllBytes(template));
-			
+
 			do {
 				int boucle_start = templateContent.indexOf(FOR_EACH_NEWSLETTER_START);
 				int boucle_end = templateContent.indexOf(FOR_EACH_NEWSLETTER_END);
-	
+
 				if (boucle_start == -1 || boucle_end == -1) {
 					break;
 				}
-	
-				String toEval = templateContent.substring(boucle_start + FOR_EACH_NEWSLETTER_START.length(), boucle_end);
+
+				String toEval = templateContent.substring(boucle_start + FOR_EACH_NEWSLETTER_START.length(),
+						boucle_end);
 				String compiled = "";
-	
+
 				for (String n : title.keySet()) {
 					String t = title.get(n), d = date.get(n);
 					compiled += toEval.replace(N, n).replace(TITLE, t).replace(DATE, d);
 				}
-	
+
 				templateContent = compiled = templateContent.substring(0, boucle_start) + compiled
 						+ templateContent.substring(boucle_end + FOR_EACH_NEWSLETTER_END.length());
-	
-			} while(templateContent.indexOf(FOR_EACH_NEWSLETTER_START) != -1);
-			
+
+			} while (templateContent.indexOf(FOR_EACH_NEWSLETTER_START) != -1);
+
 			List<String> lines = new ArrayList<String>();
 			lines.add(templateContent);
 			Files.write(new File(destination).toPath(), lines, Charset.forName("UTF-8"));

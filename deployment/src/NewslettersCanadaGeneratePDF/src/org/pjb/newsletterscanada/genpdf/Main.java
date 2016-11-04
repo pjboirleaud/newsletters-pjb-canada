@@ -5,17 +5,23 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import org.pjb.newsletterscanada.config.Config;
+import org.pjb.newsletterscanada.config.ConfigKeys;
+
 public class Main {
 
-	public final static String PAGES_PATH = "../website/canada/";
-	public final static String PDF_PATH = "D:/boirl/Google Drive/Canada/Newsletters/"; // "../website/canada/pdf/";
-	public final static List<String> EXCLUDE = Arrays.asList(new String[] { ".", "..", "pdf", "js", "css", "img" });
-	public final static String COMMAND = "C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltopdf.exe --print-media-type";
 	public static boolean REGERATE_ALL = false;
+	
+	public static String PAGES_PATH = Config.getConfig().getString(ConfigKeys.PAGES_PATH,
+			ConfigKeys.DEFAULT.PAGES_PATH);
+	public static List<String> EXCLUDE_FOLDERS = Config.getConfig().getStringList(ConfigKeys.EXCLUDE_FOLDERS,
+			ConfigKeys.DEFAULT.EXCLUDE_FOLDERS);
+	public static String PDF_PATH = Config.getConfig().getString(ConfigKeys.PDF_PATH, ConfigKeys.DEFAULT.PDF_PATH);
+	public static String PDF_COMMAND = Config.getConfig().getString(ConfigKeys.PDF_COMMAND,
+			ConfigKeys.DEFAULT.PDF_COMMAND);
 
 	public static void main(String[] args) {
 		if (args.length == 1) {
@@ -33,7 +39,7 @@ public class Main {
 		}
 		try {
 			Files.list(Paths.get(PAGES_PATH)).filter(Files::isDirectory)
-					.filter(f -> !EXCLUDE.contains(f.getFileName().toString())).forEach(Main::generatePDF);
+					.filter(f -> !EXCLUDE_FOLDERS.contains(f.getFileName().toString())).forEach(Main::generatePDF);
 		} catch (IOException e) {
 			throw new RuntimeException("IO Exception occured. ", e);
 		}
@@ -49,7 +55,7 @@ public class Main {
 		}
 		try {
 			System.out.println("Generating PDF file : " + title + ".pdf ...");
-			String command = COMMAND + " file:///"
+			String command = PDF_COMMAND + " file:///"
 					+ file.resolve("index.html").toAbsolutePath().normalize().toString().replace("\\", "/") + " \""
 					+ pdfFileName + "\"";
 			// System.out.println("command : " + command);
