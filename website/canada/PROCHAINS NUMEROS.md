@@ -97,6 +97,9 @@ Ligne d'affaires
 classeur, ...
 c'est beau (= c'est bon)
 est-ce à votre convenance ?
+se felicitent
+noms usuels : tremblay, ...
+2 fois moins d'habitants qu'en france
 
 
 "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" file:///D:/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/1/index.html test.pdf
