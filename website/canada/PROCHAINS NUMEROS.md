@@ -71,14 +71,15 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
                 <li>Les boissons s'appellent les breuvages</li>
                 <li>Les liqueurs sont les boissons non alcoolisées (type coca) !</li>
                 
+                <li>On parle d'Hydro pour l'électricité</li>
                 <li>Même si t'habites tout seul, on ira "chez vous", et non "chez toi"</li>
                 <li>Idem avec "chez nous" / "chez moi"</li>
-                <li>Quand le sol est glissant dans les lieux publics, magasins, on y voit <a href="http://www.sylprotec.com/12404-large_default/treteau-attention-plancher-mouille-25-po-de-haut.jpg">un panneau "(Attention) plancher mouillé"</a></li>
+                <li>Quand le sol est glissant dans les lieux publics, magasins, on y voit <a href="http://www.sylprotec.com/12404-large_default/treteau-attention-plancher-mouille-25-po-de-haut.jpg">un panneau "Attention plancher mouillé (lien)"</a></li>
                 <li>Un bottin est un répertoire (téléphonique ou autre)</li>
                 <li>On ne dit pas plateau (de cantine ou fast-food), mais cabaret</li>
-                <li>Céduler veut dire mettre un rendez-vous, planifier (provient de l'anglais "schedule")</li>
+                <li>Céduler veut dire mettre un rendez-vous / planifier (provient de l'anglais "schedule")</li>
                 <li>Généralement à la piscine tu apportes ton cadenas pour ton casier</li>
-                <li>Un cookie (navigateur web) devient un témoin</li>
+                <li>Les cookies des navigateurs web deviennent des témoins</li>
 
 # Prochains "Le saviez-vous ?"
 
