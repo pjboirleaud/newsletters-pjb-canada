@@ -1,15 +1,13 @@
 
 # Prochains numéros
 
-appartement
-
 "plus taxe"
 
 montréal (qualité de vie, RESO, organisation des rues, codes postaux...)
 
 paradis de la bière
 
-que mange t-on (burger, poutines, bons restaux, courses : pharmacies, produits comme fromages charcut : cretons ...)
+que mange t-on (burger, poutines, bons restaus, courses : pharmacies, produits comme fromages charcut : cretons ...)
 
 ## Organisation des rues
 
@@ -37,7 +35,7 @@ Le code postal est formé de 6 caractères, et est extrèmement précis, à un p
 
 Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel) :  H2X 2K7
 
-# "Le siez-vous ?" - anciens numéros
+# "Le saviez-vous ?" - anciens numéros
 
                 <li>Au Québec, on dit parfois allô pour dire bonjour et on peut dire bonjour pour dire au-revoir !</li>
                 <li>On dit "bienvenue" pour dire "de rien"</li>
@@ -83,6 +81,7 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
 
 # Prochains "Le saviez-vous ?"
 
+food court
 niaiseries
 , ... la
 pieces et sous
@@ -90,7 +89,7 @@ c pas si pire
 excellent
 danseuses
 rejoindre (tel)
-tu veux tu
+tu veux tu, tu peux tu
 c pas si pire
 selon moi ?
 ça fait plaisir
@@ -101,6 +100,16 @@ est-ce à votre convenance ?
 se felicitent
 noms usuels : tremblay, ...
 2 fois moins d'habitants qu'en france
+canettes
+forfait mobile (3 msg de 3 minutes : punaise)
+melanges accents
+presentement
+
+# Top des noms de films
+
+fictions pulpeuses
+tuer bill
+prison tout inclus
 
 
 "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" file:///D:/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/1/index.html test.pdf
