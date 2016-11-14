@@ -9,6 +9,8 @@ paradis de la bière
 
 que mange t-on (burger, poutines, bons restaus, courses : pharmacies, produits comme fromages charcut : cretons ...)
 
+boulot
+
 ## Organisation des rues
 
 Comme partout en amérique du nord, les rues des villes sont quadrillées.
@@ -81,6 +83,10 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
 
 # Prochains "Le saviez-vous ?"
 
+blonde
+Char
+colis
+régulier (normal)
 food court
 niaiseries
 , ... la
@@ -89,7 +95,7 @@ c pas si pire
 excellent
 danseuses
 rejoindre (tel)
-tu veux tu, tu peux tu
+tu veux tu, tu peux tu, on peut tu
 c pas si pire
 selon moi ?
 ça fait plaisir
@@ -104,6 +110,8 @@ canettes
 forfait mobile (3 msg de 3 minutes : punaise)
 melanges accents
 presentement
+se félicitent
+nuit super tot
 
 # Top des noms de films
 
