@@ -7,7 +7,7 @@ montréal (qualité de vie, RESO, organisation des rues, codes postaux...)
 
 paradis de la bière
 
-que mange t-on (burger, poutines, bons restaus, courses : pharmacies, produits comme fromages charcut : cretons ...)
+que mange t-on (burger, poutines, bons restaus, courses : pharmacies, produits comme fromages charcut : cretons ...), saq, dépanneur, avv
 
 boulot
 
@@ -80,28 +80,29 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
                 <li>Céduler veut dire mettre un rendez-vous / planifier (provient de l'anglais "schedule")</li>
                 <li>Généralement à la piscine tu apportes ton cadenas pour ton casier</li>
                 <li>Les cookies des navigateurs web deviennent des témoins</li>
+                
+                <li>Au Québec, ta petite copine est ta "blonde" (même si elle est brune)</li>
+                <li>Une voiture est un char</li>
+                <li>On ne commandera pas un café "normal", mais un café "régulier" (provient de l'anglais "regular")</li>
+                <li>Vous entendrez souvent par exemple "5 pièces et 10 sous" pour 5,10$</li>
+                <li>On ne dit pas tu veux ou tu peux, mais tu veux tu ou tu peux tu</li>
+                <li>Pour dire de rien, on dira plus souvent "bienvenue" (mais ça je l'ai déjà dit) ou encore "ça fait plaisir"</li>
+                <li>On ne dit pas "c'est bon", mais "c'est beau"</li>
+                <li>Le Québec fait environ trois fois la superficie de la France, mais compte seulement 8 millions d'habitants</li>
+                <li>Le Canada tout entier compte 35 millions d'habitants, soit deux fois moins qu'en France</li>
 
 # Prochains "Le saviez-vous ?"
 
-blonde
-Char
-colis
-régulier (normal)
 food court
 niaiseries
 , ... la
-pieces et sous
 c pas si pire
 excellent
 danseuses
 rejoindre (tel)
-tu veux tu, tu peux tu, on peut tu
 c pas si pire
 selon moi ?
-ça fait plaisir
-Ligne d'affaires
 classeur, ...
-c'est beau (= c'est bon)
 est-ce à votre convenance ?
 se felicitent
 noms usuels : tremblay, ...
@@ -118,6 +119,13 @@ nuit super tot
 fictions pulpeuses
 tuer bill
 prison tout inclus
+
+# lol
+
+Alors là bravo. 
+La documentation et le partage des bonnes pratiques est un gage de succès et démontre une belle maturité de l'équipe. 
+Merci.
+Jacques. 
 
 
 "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" file:///D:/boirl/Documents/GitHub/newsletters-pjb-canada/website/canada/1/index.html test.pdf
