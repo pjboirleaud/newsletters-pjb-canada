@@ -118,6 +118,8 @@ h2 {
 }
 
 .image-left {
+    max-width: 100%;
+    height: auto; 
     margin-right: 1.5em;
     margin-left: 0;
     margin-top: 0.3em;
@@ -131,6 +133,8 @@ h2 {
 }
 
 .image-right {
+    max-width: 100%;
+    height: auto; 
     margin-left: 1.5em;
     margin-right: 0;
     margin-top: 0.3em;
