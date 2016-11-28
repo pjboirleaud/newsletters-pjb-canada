@@ -1,13 +1,16 @@
 
 # Prochains numéros
 
+boite hyper sympa : restau...
+nuit plus tot, mais place comme bordeaux en lattitude
+
 "plus taxe"
 
 montréal (qualité de vie, RESO, organisation des rues, codes postaux...)
 
 paradis de la bière
 
-que mange t-on (burger, poutines, bons restaus, courses : pharmacies, produits comme fromages charcut : cretons ...), saq, dépanneur, avv
+que mange t-on (burger, poutines, bons restaus, courses : pharmacies, produits comme fromages charcut : cretons ...), saq, dépanneur, avv, courses (baguettes)
 
 boulot
 
@@ -93,6 +96,10 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
 
 # Prochains "Le saviez-vous ?"
 
+Suçon, 
+bécycle
+cellulaire
+glace != crême glacée
 food court
 niaiseries
 , ... la
@@ -113,6 +120,8 @@ melanges accents
 presentement
 se félicitent
 nuit super tot
+c'est la misère
+OFFERT TOUS LES JOURS DE 11 H À 16 H.
 
 # Top des noms de films
 
