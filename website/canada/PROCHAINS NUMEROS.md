@@ -1,6 +1,12 @@
 
 # Prochains numéros
 
+muraux
+
+la langue française (mettre l'affiche de fictions pulpeuses)
+
+la monnaie (on est comme une gd mère à galérer avec les pièces)
+
 boite hyper sympa : restau...
 nuit plus tot, mais place comme bordeaux en lattitude
 
@@ -94,10 +100,18 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
                 <li>Le Québec fait environ trois fois la superficie de la France, mais compte seulement 8 millions d'habitants</li>
                 <li>Le Canada tout entier compte 35 millions d'habitants, soit deux fois moins qu'en France</li>
 
+                <li>Au Québec, on va au gym (prononcer djime), et non à la gym</li>
+                <li>Vous trouverez parfois "hambourgeois" à la place de hamburger dans les restaus</li>
+                <li>Et chien-chaud pour hot-dog (ils ont osé, oui oui !!!)</li>
+                <li>Un smartphone devient un téléphone intelligent</li>
+                <li>Les personnes agées deviennent les aînés</li>
+                <li>Une sucette se dénomme suçon</li>
+                <li>Un vélo = un bécycle</li>
+                <li>Les couverts = les ustensiles</li>
+
 # Prochains "Le saviez-vous ?"
 
-Suçon, 
-bécycle
+C'est plate
 cellulaire
 glace != crême glacée
 food court
@@ -111,9 +125,7 @@ c pas si pire
 selon moi ?
 classeur, ...
 est-ce à votre convenance ?
-se felicitent
 noms usuels : tremblay, ...
-2 fois moins d'habitants qu'en france
 canettes
 forfait mobile (3 msg de 3 minutes : punaise)
 melanges accents
@@ -122,6 +134,10 @@ se félicitent
 nuit super tot
 c'est la misère
 OFFERT TOUS LES JOURS DE 11 H À 16 H.
+s'arrimer
+on s'en reparle
+Ustensiles
+slush = neige boue
 
 # Top des noms de films
 
