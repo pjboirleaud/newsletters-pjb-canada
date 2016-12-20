@@ -1,7 +1,9 @@
 
 # Prochains numéros
 
-muraux
+andré tremblay au boulot ^^
+
+magasins, tout est ouvert tout le temps et jusqu'à pas d'heure...
 
 la langue française (mettre l'affiche de fictions pulpeuses)
 
@@ -18,7 +20,7 @@ paradis de la bière
 
 que mange t-on (burger, poutines, bons restaus, courses : pharmacies, produits comme fromages charcut : cretons ...), saq, dépanneur, avv, courses (baguettes)
 
-boulot
+muraux --> plutôt cet été
 
 ## Organisation des rues
 
@@ -108,12 +110,17 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
                 <li>Une sucette se dénomme suçon</li>
                 <li>Un vélo = un bécycle</li>
                 <li>Les couverts = les ustensiles</li>
+                
+                <li>On ne dit pas téléphone mobile, mais cellulaire.</li>
+                <li>Ne pas confondre glace et crème glacée ! la glace est ce qui traîne dehors plusieurs mois dans l'année.</li>
+                <li>Ils disent souvent "selon moi ..." (according to me)</li>
+                <li>Au restau, la serveuse vous demandera : "est-ce à votre convenance ?"</li>
+                <li>"C'est en plein ça !" = c'est tout à fait ça</li>
+                <li>"C'est platte" = c'est ennuyant</li>
+                <li>Le terme "niaiserie" est très employé. Par exemple : "arrête tes niaiseries, lô !"</li>
 
 # Prochains "Le saviez-vous ?"
 
-C'est plate
-cellulaire
-glace != crême glacée
 food court
 niaiseries
 , ... la
@@ -121,10 +128,7 @@ c pas si pire
 excellent
 danseuses
 rejoindre (tel)
-c pas si pire
-selon moi ?
 classeur, ...
-est-ce à votre convenance ?
 noms usuels : tremblay, ...
 canettes
 forfait mobile (3 msg de 3 minutes : punaise)
@@ -136,8 +140,8 @@ c'est la misère
 OFFERT TOUS LES JOURS DE 11 H À 16 H.
 s'arrimer
 on s'en reparle
-Ustensiles
 slush = neige boue
+yogourt
 
 # Top des noms de films
 
