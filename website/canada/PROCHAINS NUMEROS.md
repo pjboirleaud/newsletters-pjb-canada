@@ -1,6 +1,8 @@
 
 # Prochains numéros
 
+NL pas de délinquance, respect...
+
 andré tremblay au boulot ^^
 
 magasins, tout est ouvert tout le temps et jusqu'à pas d'heure...
@@ -118,6 +120,14 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
                 <li>"C'est en plein ça !" = c'est tout à fait ça</li>
                 <li>"C'est platte" = c'est ennuyant</li>
                 <li>Le terme "niaiserie" est très employé. Par exemple : "arrête tes niaiseries, lô !"</li>
+                
+                <li>La marque Marlboro s'appelle Rooftop au Canada (car déjà prise !)</li>
+                <li>Une soirée s'appelle un parté (de l'anglais party)</li>
+                <li>On ne dit pas piocher (une carte), mais piger</li>
+                <li>Un plaid s'appelle un jeté (j'adore ce nom, il prend tout son sens quand tu te vautres dans le canapé)</li>
+                <li>La neige boueuse (la gadoue) s'appelle la slush (anglicisme !)</li>
+                <li>On ne dit pas yaourt mais yogourt</li>
+                <li>Le mot "achalandé" est très employé (vieux français voulant dire fréquenté)</li>
 
 # Prochains "Le saviez-vous ?"
 
@@ -140,8 +150,6 @@ c'est la misère
 OFFERT TOUS LES JOURS DE 11 H À 16 H.
 s'arrimer
 on s'en reparle
-slush = neige boue
-yogourt
 
 # Top des noms de films
 
