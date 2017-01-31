@@ -1,7 +1,11 @@
 
 # Prochains numéros
 
+NL bières
+
 NL pas de délinquance, respect...
+nous on subit l'immigration eux ils en vivent
+très décomplexés (n'ont honte de rien, ils s'assument, ... pas de regards de travers)
 
 andré tremblay au boulot ^^
 
@@ -129,13 +133,20 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
                 <li>On ne dit pas yaourt mais yogourt</li>
                 <li>Le mot "achalandé" est très employé (vieux français voulant dire fréquenté)</li>
 
+                <li>Au Québec, on dit corridor pour parler d'un couloir</li>
+                <li>Vous entendrez à tout bout de champ "Excellent", comme nous on pourrait dire "Super"</li>
+                <li>La ville américaine Boston se prononce comme elle s'écrit</li>
+                <li>Pour donner son avis on commencera souvent par "d'après moi"</li>
+                <li>C'est poche = c'est nul</li>
+                <li>"Ca fait du sens !"</li>
+                <li>"T'aimerais ça" aller à la piscine avec moi ?</li>
+                
 # Prochains "Le saviez-vous ?"
 
 food court
 niaiseries
 , ... la
 c pas si pire
-excellent
 danseuses
 rejoindre (tel)
 classeur, ...
@@ -150,6 +161,19 @@ c'est la misère
 OFFERT TOUS LES JOURS DE 11 H À 16 H.
 s'arrimer
 on s'en reparle
+j'aimerais ca savoir
+cette affaire la
+vous autres
+Rabais, 
+aubaine
+bris d'équipement
+costume de bain
+fait que -> en fait
+Une place
+enjeux
+achalé
+achalé (?)
+virement interac
 
 # Top des noms de films
 
