@@ -3,6 +3,8 @@
 
 NL bières
 
+nl impots
+
 NL pas de délinquance, respect...
 nous on subit l'immigration eux ils en vivent
 très décomplexés (n'ont honte de rien, ils s'assument, ... pas de regards de travers)
@@ -141,6 +143,14 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
                 <li>"Ca fait du sens !"</li>
                 <li>"T'aimerais ça" aller à la piscine avec moi ?</li>
                 
+                <li>Au Québec, le terme "offert" ne veut généralement pas dire que cela sera gratuit, il signifie plutôt "proposé".</li>
+                <li>Le petit copain s'appelle le chum.</li>
+                <li>Comme aux USA, on visite quelqu'un lorsqu'on se rend chez lui.</li>
+                <li>Le bonnet s'appelle la tuque</li>
+                <li>Une amende s'appelle également un ticket.</li>
+                <li>On ne dit pas slash pour parler du caractère "/", mais barre oblique</li>
+                <li>Le symbole dièse "#" se dénomme régulièrement "carré" au téléphone.</li>
+                
 # Prochains "Le saviez-vous ?"
 
 food court
@@ -171,9 +181,15 @@ costume de bain
 fait que -> en fait
 Une place
 enjeux
-achalé
 achalé (?)
 virement interac
+c'est le fun
+oh, boy !
+maudit
+c'est bien compliqué ton affaire
+pogner
+enjeux
+pas de trouble
 
 # Top des noms de films
 
