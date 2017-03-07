@@ -1,9 +1,7 @@
 
 # Prochains numéros
 
-NL bières
-
-nl impots
+nl impots ; labyrinthe - casse tête - zen, ça c'était la partie fun. Voici la moins fun
 
 NL pas de délinquance, respect...
 nous on subit l'immigration eux ils en vivent
@@ -20,11 +18,7 @@ la monnaie (on est comme une gd mère à galérer avec les pièces)
 boite hyper sympa : restau...
 nuit plus tot, mais place comme bordeaux en lattitude
 
-"plus taxe"
-
 montréal (qualité de vie, RESO, organisation des rues, codes postaux...)
-
-paradis de la bière
 
 que mange t-on (burger, poutines, bons restaus, courses : pharmacies, produits comme fromages charcut : cretons ...), saq, dépanneur, avv, courses (baguettes)
 
@@ -190,6 +184,7 @@ c'est bien compliqué ton affaire
 pogner
 enjeux
 pas de trouble
+A tanto !
 
 # Top des noms de films
 

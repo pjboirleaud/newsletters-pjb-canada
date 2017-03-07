@@ -89,9 +89,10 @@ public class Main {
 
 				String toEval = templateContent.substring(boucle_start + FOR_EACH_NEWSLETTER_START.length(),
 						boucle_end);
-				String compiled = "";
+				String compiled = "", n;
 
-				for (String n : title.keySet()) {
+				for (int i=0 ; i<title.keySet().size() ; ++i) {
+					n = "" + (i+1);
 					String t = title.get(n), d = date.get(n);
 					compiled += toEval.replace(N, n).replace(TITLE, t).replace(DATE, d);
 				}
