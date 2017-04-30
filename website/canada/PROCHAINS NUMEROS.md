@@ -145,6 +145,22 @@ Essayez sur google maps de renseigner celui-là par exemple (celui de mon hôtel
                 <li>On ne dit pas slash pour parler du caractère "/", mais barre oblique</li>
                 <li>Le symbole dièse "#" se dénomme régulièrement "carré" au téléphone.</li>
                 
+                <li>Au Québec, pour dire bientôt / plus tard, on dit "tantôt"</li>
+                <li>Les chips s'appellent les croustilles</li>
+                <li>Les toilettes s'appellent aussi la salle de bain, comme aux US.</li>
+                <li>Vous entendrez à tout va "fait que" dans les phrases : ça remplace notre "en fait" ou autres petits tics du langage</li>
+                <li>Une place = un endroit (exemple : c'est une très bonne place pour manger)</li>
+                <li>Connaissiez-vous le "bris d'équipement" ?</li>
+                <li>Vous entendrez également à tout va, comme chez les anglophones "Oh boy !" = "punaise !"</li>
+                
+                <li>Au Québec, pour dire que c'est bien, correct, on dit souvent que "c'est l'fun" !</li>
+                <li>Quand on parle ""en bien"" des français, on nous surnomme les "hosties de Français", ou les "maudits français"</li>
+                <li>On emploie souvent le terme "affaire" pour parler de quelque-chose</li>
+                <li>"T'aimerais ça savoir ... ?"</li>
+                <li>Avec le combo "tu .. tu", ça donne "Tu aimerais-tu ça savoir ... ?" (ça pique vraiment les oreilles oui...)</li>
+                <li>Connaissez-vous les "costumes de bain" ?</li>
+                <li>"On en reparlera" = "on s'en reparle"</li>
+                
 # Prochains "Le saviez-vous ?"
 
 food court
@@ -164,27 +180,17 @@ nuit super tot
 c'est la misère
 OFFERT TOUS LES JOURS DE 11 H À 16 H.
 s'arrimer
-on s'en reparle
-j'aimerais ca savoir
-cette affaire la
 vous autres
 Rabais, 
 aubaine
-bris d'équipement
-costume de bain
-fait que -> en fait
-Une place
 enjeux
-achalé (?)
 virement interac
-c'est le fun
-oh, boy !
-maudit
-c'est bien compliqué ton affaire
-pogner
+pogner : http://www.dufrancaisaufrancais.com/les-nombreuses-significations-de-pogner/
 enjeux
 pas de trouble
-A tanto !
+$ = signe de pièce
+trapes à fourmis
+metre = ruban xxx 
 
 # Top des noms de films
 
